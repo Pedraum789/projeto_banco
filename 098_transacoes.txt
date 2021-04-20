@@ -1,0 +1,7 @@
+Nome: ale
+CPF: 098
+Conta: Plus
+Valor inicial: R$98.0
+Data: 2020-4-21...12:11..+..R$78.0..Tarifa:..0.01..Saldo:..R$19.22
+Data: 2020-4-21...12:12..+..R$98.0..Tarifa:..0.0..Saldo:..R$117.22
+
